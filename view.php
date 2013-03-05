@@ -10,6 +10,8 @@
         <link rel="stylesheet" href="assets/css/bootstrap-responsive.min.css">
         <link rel="stylesheet" href="assets/css/main.css">
 
+				<!-- http://modernizr.com/docs/ -->
+        <script src="assets/js/vendor/modernizr-2.6.2.min.js"></script>
         <!--[if lt IE 9]>
             <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
             <script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')</script>
@@ -105,9 +107,6 @@
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 
         <script src="assets/js/vendor/bootstrap.min.js"></script>
-        <script src="assets/js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="assets/js/vendor/html5shiv.js"></script>
-
         <script src="assets/js/plugins.js"></script>
         <script src="assets/js/main.js"></script>
     </body>
